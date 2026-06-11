@@ -4,7 +4,7 @@
 
 This project forecasts next-week vehicle demand for each market, flags which markets are ramping up or cooling down versus a year ago, and recommends how to distribute a fixed demo fleet. It is the predictive and planning layer that sits on top of a descriptive conversion dashboard.
 
-**Live dashboard:** _(Streamlit Cloud link once deployed)_
+**Live dashboard:** _https://fleet-demand-engine-satyam.streamlit.app/_
 **Code:** this repo
 
 ---
