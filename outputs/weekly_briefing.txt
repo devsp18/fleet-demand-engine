@@ -1,0 +1,21 @@
+FLEET DEMAND BRIEFING  |  Week of 2024-01-01
+====================================================
+
+Projected demand across all 7 markets: ~174 units this week.
+Forecast model: XGBoost, holdout MAE 11.17 units (18.5% better than a naive last-week guess).
+
+RAMPING UP vs last year: Middletown (+31% YoY), Greenville (+23% YoY), Janesville (+22% YoY).
+  -> These markets are entering seasonal strength. Prioritize demo availability here.
+
+RECOMMENDED ALLOCATION (fleet of 120 demo vehicles):
+  Austin        18 vehicles
+  Janesville    18 vehicles  (+1 vs even split)
+  Pasco         17 vehicles
+  Middletown    17 vehicles
+  Greenville    17 vehicles
+  Scottsdale    17 vehicles
+  Aurora        16 vehicles  (-1 vs even split)
+
+Highest-demand market this week: Austin (16% of forecast demand).
+
+Method note: allocation tracks forecast demand share with a per-market floor. Regional demand levels are similar, so the primary lever is seasonal timing rather than large cross-market moves.

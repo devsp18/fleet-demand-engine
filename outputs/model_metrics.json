@@ -1,0 +1,10 @@
+{
+  "test_start": "2023-08-07",
+  "n_train": 560,
+  "n_test": 147,
+  "MAE": 11.17,
+  "RMSE": 14.25,
+  "MAPE_pct": 22.7,
+  "naive_MAE": 13.7,
+  "improvement_vs_naive_pct": 18.5
+}
